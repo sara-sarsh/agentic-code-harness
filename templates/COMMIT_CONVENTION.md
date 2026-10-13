@@ -21,3 +21,4 @@ Each commit must encapsulate exactly **one atomic unit of work** (Single Concern
 - `feat(auth): validate email domain whitelist on signup`
 - `test(auth): add unit test for forbidden domain rejection`
 - `fix(planner): resolve off-by-one error in lunar phase calculation`
+

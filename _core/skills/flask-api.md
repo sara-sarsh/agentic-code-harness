@@ -14,3 +14,4 @@
       assert response.get_json()["status"] == "success"
   ```
 - Always mock external HTTP requests, background queues, or third-party SDK calls in unit tests.
+

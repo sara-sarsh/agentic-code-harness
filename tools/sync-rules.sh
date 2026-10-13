@@ -69,3 +69,4 @@ print("  - .agents/AGENTS.md")
 EOF
 
 chmod +x tools/sync-rules.sh 2>/dev/null || true
+

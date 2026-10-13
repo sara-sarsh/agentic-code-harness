@@ -97,3 +97,4 @@ The agent changes **only** the lines required for timeout, keeps all comments an
 2. Existing docstrings and comments preserved verbatim.
 3. No dependency changes.
 4. Predictable, minimal blast radius.
+

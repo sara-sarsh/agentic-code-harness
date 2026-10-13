@@ -17,3 +17,4 @@ Under Spec-Driven Development (SDD):
 - **Zero Vibe Merging:** If a requirement is not in the spec, it does not enter the codebase.
 
 By forcing the agent to operate within the bounds of a verified specification, developer productivity increases while architectural sanity is preserved.
+

@@ -6,7 +6,7 @@
 #   ./tools/init-agent.sh [--target /path/to/project] [--skill python] [--skill flask-api]
 #
 # Usage (Remote curl):
-#   curl -sL https://raw.githubusercontent.com/sara/agentic-code-harness/main/tools/init-agent.sh | bash -s -- --skill python
+#   curl -sL https://raw.githubusercontent.com/sara-sarsh/agentic-code-harness/main/tools/init-agent.sh | bash -s -- --skill python
 
 set -euo pipefail
 
@@ -16,7 +16,7 @@ if [[ -n "$SCRIPT_DIR" && -d "$SCRIPT_DIR/../_core" ]]; then
   LOCAL_SOURCE_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 fi
 
-GITHUB_RAW_URL="https://raw.githubusercontent.com/sara/agentic-code-harness/main"
+GITHUB_RAW_URL="https://raw.githubusercontent.com/sara-sarsh/agentic-code-harness/main"
 TARGET_DIR="."
 SKILLS=()
 
@@ -85,3 +85,4 @@ echo "✓ Agentic Code Harness successfully installed!"
 echo "  - Edit _core/RULES.md to customize project constraints."
 echo "  - Run 'tools/sync-rules.sh' anytime you update rules."
 echo "=================================================="
+

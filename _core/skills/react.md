@@ -8,3 +8,4 @@
 ## Surgical Modification Rules
 - When modifying JSX/TSX, preserve existing Tailwind CSS classes, inline styles, and semantic accessibility attributes (ARIA).
 - Do not refactor functional components to arrow functions or vice versa; preserve existing component declaration syntax.
+

@@ -34,7 +34,7 @@ Inject the harness into any existing codebase:
 
 ### 2. Remote One-Liner (curl)
 ```bash
-curl -sL https://raw.githubusercontent.com/sara/agentic-code-harness/main/tools/init-agent.sh \
+curl -sL https://raw.githubusercontent.com/sara-sarsh/agentic-code-harness/main/tools/init-agent.sh \
   | bash -s -- --skill python --skill flask-api
 ```
 
@@ -124,3 +124,4 @@ By default, the harness orders the agent to **STOP IMMEDIATELY** and await human
 
 ## 📄 License
 MIT © 2026. Built for developers engineering with AI agents.
+

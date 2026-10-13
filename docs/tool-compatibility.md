@@ -16,3 +16,4 @@ In the Harness:
 - Developers **only** edit `_core/RULES.md`.
 - Running `tools/sync-rules.sh` updates all tool configurations simultaneously.
 - CI/CD can enforce that `tools/sync-rules.sh` produces no git diff before merging PRs.
+

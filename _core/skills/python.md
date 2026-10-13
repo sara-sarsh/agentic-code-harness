@@ -15,3 +15,4 @@
 ## Common Anti-Patterns to Avoid
 - Do NOT rewrite list comprehensions into loops or vice versa unless directly requested.
 - Do NOT add `typing.Optional` if the file already uses `| None`. Match the file's style.
+

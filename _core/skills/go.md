@@ -8,3 +8,4 @@
 ## Surgical Modification Rules
 - Match existing receiver naming conventions (e.g., single-letter receivers matching the struct name).
 - Run targeted tests only: `go test -v -run TestTargetFunction ./path/to/pkg`.
+

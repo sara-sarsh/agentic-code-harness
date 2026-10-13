@@ -20,3 +20,4 @@
   <What decision or input the human developer must provide>
 - **Resolution:**
   <Filled by human or after approved guidance>
+

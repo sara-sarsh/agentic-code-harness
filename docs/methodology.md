@@ -59,3 +59,4 @@ Rather than prompting: *"Build an authentication system"*, tasks follow a rigoro
        │  COMMIT  │  (Atomic git commit: feat(scope): message)
        └──────────┘
 ```
+
